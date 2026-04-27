@@ -18,11 +18,11 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 excluded-patches = "'Custom branding'"
 
 # --- 其他應用 ---
-[GooglePhotos]
-build-mode = "module"
-arch = "arm64-v8a"
-version = "auto"
-uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+#[GooglePhotos]
+#build-mode = "module"
+#arch = "arm64-v8a"
+#version = "auto"
+#uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
 #[Tiktok]
 #uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
